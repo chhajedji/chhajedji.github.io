@@ -1,5 +1,2 @@
 # chinmaychhajed.github.io
-my web page
-
-# other links
-http://chinmaychhajed.cf/
+A web page as simple as it can be
