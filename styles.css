@@ -4,7 +4,7 @@ li, p {
 	font-family:Verdana;
 }
 
-a {
+a[href] {
 	text-decoration:none;
 	color: #CCFFFF;
 }
