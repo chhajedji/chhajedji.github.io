@@ -1,2 +1,3 @@
-# chinmaychhajed.github.io
-A web page as simple as it can be
+# [chhajedji.github.io](https://chhajedji.github.io) [WIP]
+
+A web page as simple as it can be.
