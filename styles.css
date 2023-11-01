@@ -1,7 +1,7 @@
 li, p {
 	line-height: 1.5;
 	color: #6E72A5;
-	font-family:Verdana;
+	/* font-family: "Helvetica"; */
 }
 
 a[href] {
@@ -11,7 +11,7 @@ a[href] {
 
 h1, h2, h3, h4, h5, h6 {
 	color: #00A1AC;
-	font-family: Verdana;
+        font-family: "Helvetica", sans-serif;
 }
 
 .imgmargin {
@@ -21,6 +21,11 @@ h1, h2, h3, h4, h5, h6 {
 
 body {
 	background-color: #181818;
+        margin: auto;
+        max-width: 60em;
+        font-family: "Helvetica", "Arial", sans-serif;
+        font-size: 20px
+
 }
 ul {
   list-style-type: square;
